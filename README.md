@@ -29,3 +29,9 @@
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,typescript&perline=5)](https://skillicons.dev)
+
+## Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratmie&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratmie&theme=nord_bright&exclude={exclude})
+

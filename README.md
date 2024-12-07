@@ -20,7 +20,7 @@
 ## Hi, there. 
 
 - I'm ratmie. 
-- I'm a sSoftware Engineer, Product Manager at NCDC.
+- I'm a Software Engineer, Product Manager at NCDC.
 
 ## Contacts
 

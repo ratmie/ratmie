@@ -26,6 +26,10 @@
 
 - https://x.com/ratmie1
 
+## Presentations
+
+- [My Presentations](./presentations.md)
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,typescript&perline=5)](https://skillicons.dev)
